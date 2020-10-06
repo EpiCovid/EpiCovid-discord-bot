@@ -19,6 +19,6 @@
   "homepage": "https://github.com/YEP-project1-2019/EpiCovid-discord-bot#readme",
   "dependencies": {
     "discord.js": "^12.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
